@@ -1,1 +1,1 @@
-<img src="diagrama.png">
+<img src="integracaobridge.png">
